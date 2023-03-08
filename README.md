@@ -10,8 +10,8 @@ Pengaduan masyarakat app sebagai latihan untuk menghadapi UKK 2023.
 
 Pastikan anda sudah menginstall [composer](https://getcomposer.org/doc/00-intro.md).  
 Memenuhi requirements laravel [berikut](https://laravel.com/docs/10.x/deployment#server-requirements).  
-Versi PHP >= 8.1  
-Database = MySQL
+Versi PHP >= 8.1.  
+Database = MySQL.  
 Kemudain jalankan perintah berikut di terminal.
 
 ```bash
