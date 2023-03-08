@@ -64,7 +64,7 @@
         @elseif($dataPengaduan->status == 'dibatalkan')
         <span class="badge bg-secondary">Dibatalkan</span>
         @else
-        <span class="badge bg-success">Selesai</span>
+        <span class="badge bg-success">Ditanggapi</span>
         @endif
       </p>
       <p><span class="d-inline-block" style="width: 130px">Isi Laporan </span> : </p>
